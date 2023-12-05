@@ -17,7 +17,8 @@
     "@angular/router": "17.0.5",
     "@angular/compiler": "17.0.5",
     "@angular/animations": "17.0.5",
-    "@angular/platform-browser": "17.0.5"
+    "@angular/platform-browser": "17.0.5",
+    "@ironsource/fusion-ui": "7.0.0-rc.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~17.0.5",
