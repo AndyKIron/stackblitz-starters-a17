@@ -12,8 +12,8 @@ import 'zone.js';
     </a>
   `,
 })
-export class App {
+export class AppComponent {
   name = 'Angular';
 }
 
-bootstrapApplication(App);
+bootstrapApplication(AppComponent).catch((err) => console.error(err));
